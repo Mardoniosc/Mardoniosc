@@ -22,7 +22,7 @@
         <td>
           <h2>Olá, tudo bem?</h2>
           <h4>
-            Aqui é o Mardonio, programador fullStack que gosto muito da área de
+            Aqui é o Mardonio, programador fullStack que gosta muito da área de
             desenvolvimento e adora um desafio, sempre buscando as melhores e
             mais atualizadas tecnologias, para melhorar o desempenho de sua
             função.
@@ -30,7 +30,7 @@
           <h4>+Sobre mim:</h4>
           <ul>
             <li>
-              :mortar_board: Analise e Desenvolvimento de Sistemas(Completo in
+              :mortar_board: Analise e Desenvolvimento de Sistemas(Completo em
               2015);
             </li>
             <li>
@@ -52,6 +52,7 @@
           </ul>
           <h4>Tecnologias as quais já estudei/estudando</h4>
           <ul>
+            <li>Ionic 3</li>
             <li>React</li>
             <li>React Native</li>
             <li>NodeJs</li>
