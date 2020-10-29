@@ -52,7 +52,7 @@
           </ul>
           <h4>Tecnologias as quais já estudei/estudando</h4>
           <ul>
-            <li>Ionic 3</li>
+            <li>Ionic 4</li>
             <li>React</li>
             <li>React Native</li>
             <li>NodeJs</li>
