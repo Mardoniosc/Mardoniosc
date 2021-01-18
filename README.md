@@ -11,7 +11,7 @@
           <a target="_blank" href="https://www.instagram.com/mardonioc/">
             <img
               width="40px"
-              src="https://www.uokpl.rs/fpng/f/0-236_instagram-icon-black.png" /></a
+              src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-3.png" /></a
           ><br />
           <a target="_blank" href="https://www.linkedin.com/in/mardoniosc/">
             <img
