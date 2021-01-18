@@ -6,17 +6,17 @@
           <a target="_blank" href="https://www.facebook.com/mardonio14/">
             <img
               width="40px"
-              src="https://i.pinimg.com/originals/30/99/af/3099aff4115ee20f43e3cdad04f59c48.png" /></a
+              src="https://raw.githubusercontent.com/Mardoniosc/Mardoniosc/main/icons/facebook.png" /></a
           ><br />
           <a target="_blank" href="https://www.instagram.com/mardonioc/">
             <img
               width="40px"
-              src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-3.png" /></a
+              src="https://raw.githubusercontent.com/Mardoniosc/Mardoniosc/main/icons/instagram.png" /></a
           ><br />
           <a target="_blank" href="https://www.linkedin.com/in/mardoniosc/">
             <img
               width="40px"
-              src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a
+              src="https://raw.githubusercontent.com/Mardoniosc/Mardoniosc/main/icons/linkedin.png" /></a
           ><br />
         </td>
         <td>
