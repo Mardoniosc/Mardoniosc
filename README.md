@@ -6,7 +6,7 @@
           <a target="_blank" href="https://www.facebook.com/mardonio14/">
             <img
               width="40px"
-              src="https://cdn.onlinewebfonts.com/svg/img_2647.png" /></a
+              src="https://i.pinimg.com/originals/30/99/af/3099aff4115ee20f43e3cdad04f59c48.png" /></a
           ><br />
           <a target="_blank" href="https://www.instagram.com/mardonioc/">
             <img
@@ -16,7 +16,7 @@
           <a target="_blank" href="https://www.linkedin.com/in/mardoniosc/">
             <img
               width="40px"
-              src="https://cdn.onlinewebfonts.com/svg/img_424227.png" /></a
+              src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a
           ><br />
         </td>
         <td>
