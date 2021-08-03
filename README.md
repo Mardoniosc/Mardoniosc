@@ -37,7 +37,7 @@
               :school: Centro Universitário e Faculdade Projeção (UniProjeção);
             </li>
             <li>:earth_americas: Brasília, Brazil</li>
-            <li>:hourglass: 29 anos de idade</li>
+            <li>:hourglass: 30 anos de idade</li>
           </ul>
           <h4>Tecnologias Trabalho/Trabalhei:</h4>
           <ul>
@@ -45,7 +45,7 @@
             <li>PHP</li>
             <li>JavaScript</li>
             <li>JAVA SPRING BOOT</li>
-            <li>ANGULAR 8+</li>
+            <li>ANGULAR 11+</li>
             <li>PostgresSQL</li>
             <li>MongoDB</li>
             <li>Mysql</li>
