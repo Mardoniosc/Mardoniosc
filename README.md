@@ -37,7 +37,7 @@
               :school: Centro Universitário e Faculdade Projeção (UniProjeção);
             </li>
             <li>:earth_americas: Brasília, Brazil</li>
-            <li>:hourglass: 30 anos de idade</li>
+            <li>:hourglass: 32 anos de idade</li>
           </ul>
           <h4>Tecnologias Trabalho/Trabalhei:</h4>
           <ul>
@@ -62,7 +62,6 @@
           <h4>Contatos</h4>
           <ul>
             <li>:e-mail: Email: Mardonio@live.com</li>
-            <li>:iphone: Fone: 61 98413-7835</li>
           </ul>
         </td>
         <td></td>
